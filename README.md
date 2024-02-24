@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello World, I'm Kubra
+#### I'm a sophomore in computer engineering.
+![I'm a sophomore in computer engineering.](https://pbs.twimg.com/media/GHGk-s1X0AAKwqe?format=jpg&name=large)
 
-<!--
-**kubrakilicaslan/kubrakilicaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just keep it up. No matter what obstacles come your way, just keep it up. Take every step with these words and say hello to your future self. This way you will be unstoppable.
 
-Here are some ideas to get you started:
+Skills: C / Java / JS / HTML / CSS / REACT / Python / Django / C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on school projects. 
+- 🌱 I’m currently learning Figma. 
+- 🤔 I’m looking for help with how to become a good developer. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kubrakilicaslan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kübra-kılıçaslan-b62136256/)  
+
+
