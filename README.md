@@ -1,4 +1,4 @@
-# Hi there, I'm Hatice Kübra! 👋
+# Hi there, I'm Kübra! 👋
 
 I'm a passionate Computer Engineering student from Turkey, focusing on System Engineering, Machine Learning, and Front-End Development.
 
