@@ -2,10 +2,10 @@
 
 I'm a passionate Computer Engineering student from Turkey, focusing on System Engineering, Machine Learning, and Front-End Development.
 
- -Currently diving into System Design and Deep Learning  
- -Developing projects with Python and React  
- -Designing user interfaces on Figma before starting to code  
- -Committed to continuous learning and self-improvement
+ - Currently diving into System Design and Deep Learning  
+ - Developing projects with Python and React  
+ - Designing user interfaces on Figma before starting to code  
+ - Committed to continuous learning and self-improvement
 
 ---
 
