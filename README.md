@@ -9,11 +9,15 @@ I'm a passionate Computer Engineering student from Turkey, focusing on System En
 
 ---
 
-###  A New Beginning!
+I'm passionate about solving real-world problems with elegant code and intuitive design.  
+Currently, I'm focusing on building **end-to-end projects** from UI to deployment — and learning in public.
 
-Recently, I decided to refresh my GitHub profile and start a brand new journey.  
-All my future projects, from system design to deep learning and front-end applications, will be shared here.  
-Stay tuned for exciting updates! 🚀
+---
+
+### 🚀 What I'm Working On
+- A real-time multiplayer word game using Socket.IO, React Native and Node.js  
+- A diabetes tracking app with PyQt5 & rule-based AI logic  
+- UI component detection using Faster R-CNN on the RICO dataset
 
 ---
 
