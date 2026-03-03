@@ -31,8 +31,7 @@ Currently, I'm focusing on building **end-to-end projects** from UI to deploymen
 
 ---
 
-###  GitHub Stats
-![Hatice Kübra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubrakilicaslan&show_icons=true&theme=default)
+###  Projects
 
 ---
 
