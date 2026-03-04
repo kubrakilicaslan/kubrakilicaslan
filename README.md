@@ -2,15 +2,15 @@
 
 I'm a Computer Engineer focused on building scalable digital products at the intersection of system design, AI, and user experience.
 
- - Currently diving into System Design and Deep Learning  
- - Developing projects with Python and React  
- - Designing user interfaces on Figma before starting to code  
- - Committed to continuous learning and self-improvement
+ - Building scalable digital products and system architectures
+ - Developing AI and computer vision projects with Python
+ - Designing user experiences and product flows with Figma before development
+ - Exploring system design, backend architecture, and end-to-end product development
 
 ---
 
-I'm passionate about solving real-world problems with elegant code and intuitive design.  
-Currently, I'm focusing on building **end-to-end projects** from UI to deployment — and learning in public.
+I enjoy solving real-world problems by combining engineering, product thinking, and intuitive design.
+Currently focusing on building end-to-end systems — from idea and UX to implementation and deployment.
 
 ---
 
