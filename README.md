@@ -1,6 +1,6 @@
 # Hi there, I'm Kübra! 👋
 
-I'm a Computer Engineer focused on building scalable digital products at the intersection of system design, AI, and user experience.
+Computer Engineer building scalable digital products at the intersection of system design, AI, and user experience.
 
  - Building scalable digital products and system architectures
  - Developing AI and computer vision projects with Python
