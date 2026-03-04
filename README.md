@@ -15,9 +15,9 @@ Currently, I'm focusing on building **end-to-end projects** from UI to deploymen
 ---
 
 ### 🚀 What I'm Working On
-• University Mobile App (Product Ownership – 20K+ users)
-• UI Component Detection (Computer Vision – RICO Dataset)
-• System design experiments and AI-based product features
+- University Mobile App (Product Ownership – 20K+ users)
+- UI Component Detection (Computer Vision – RICO Dataset)
+- System design experiments and AI-based product features
 
 ---
 
