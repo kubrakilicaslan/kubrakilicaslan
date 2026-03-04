@@ -10,6 +10,7 @@ I'm a Computer Engineer focused on building scalable digital products at the int
 ---
 
 I enjoy solving real-world problems by combining engineering, product thinking, and intuitive design.
+
 Currently focusing on building end-to-end systems — from idea and UX to implementation and deployment.
 
 ---
