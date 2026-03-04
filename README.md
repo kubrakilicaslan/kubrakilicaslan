@@ -1,6 +1,6 @@
 # Hi there, I'm Kübra! 👋
 
-I'm a passionate Computer Engineering student from Turkey, focusing on System Engineering, Machine Learning, and Front-End Development.
+I'm a Computer Engineer focused on building scalable digital products at the intersection of system design, AI, and user experience.
 
  - Currently diving into System Design and Deep Learning  
  - Developing projects with Python and React  
@@ -15,9 +15,9 @@ Currently, I'm focusing on building **end-to-end projects** from UI to deploymen
 ---
 
 ### 🚀 What I'm Working On
-- A real-time multiplayer word game using Socket.IO, React Native and Node.js  
-- A diabetes tracking app with PyQt5 & rule-based AI logic  
-- UI component detection using Faster R-CNN on the RICO dataset
+• University Mobile App (Product Ownership – 20K+ users)
+• UI Component Detection (Computer Vision – RICO Dataset)
+• System design experiments and AI-based product features
 
 ---
 
@@ -37,8 +37,8 @@ Currently, I'm focusing on building **end-to-end projects** from UI to deploymen
 | **Kocaeli University Mobile App** | Student information & campus system (React Native) | [🔗 View for AppStore](https://apps.apple.com/tr/app/ko%C3%BC-mobil/id6742989838?l=tr) |
 | **Mediko Appointment System**     | Health appointment management                      | [🔗 View](https://medikorandevu.kocaeli.edu.tr/) |
 | **Part-Time Student Tracking**    | Payroll & attendance tracking                      | [🔗 View](https://kszogrenci.kocaeli.edu.tr/) |
-| **Tender Tracking System**        | Procurement workflow digitization                  | [🔗 View] () |
-| **Classroom Reservation System**  | Real-time SOAP integration                         | [🔗 View] () |
+| **Tender Tracking System**        | Procurement workflow digitization system           | [🔗 View] () |
+| **Classroom Reservation System**  | Real-time SOAP API integration                     | [🔗 View] () |
 | **UI Component Detection (AI)**   | Faster R-CNN on RICO dataset                       | [🔗 View](https://github.com/kubrakilicaslan/FMSSComponentDetectionProject) |
 
 
