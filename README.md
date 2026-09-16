@@ -47,4 +47,4 @@ Currently focusing on building end-to-end systems — from idea and UX to implem
 
 ###  How to reach me
 - [LinkedIn](https://www.linkedin.com/in/k%C3%BCbra-k%C4%B1l%C4%B1%C3%A7aslan-b62136256/)
-- Email: kubrakilicaslann@gmail.com
+- Email: haticekubrakilicaslan@gmail.com
