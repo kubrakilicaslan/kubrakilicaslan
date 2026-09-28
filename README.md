@@ -1,16 +1,29 @@
 # Hi, I'm Kübra 👋
 
-**Technical Product Manager & Developer** — I turn messy real-world processes into working digital systems.
-Computer Engineering @ Kocaeli University · Based in Kocaeli, Türkiye
+**Founder of [KaslanTech](https://kaslantech.com)** · Technical Product Manager & Developer
+Computer Engineering @ Kocaeli University · Kocaeli, Türkiye
 
-I sit between product and engineering: scoping the problem, designing the flow in Figma, working with stakeholders, and building or coordinating the implementation through to launch.
+I turn messy real-world processes into working digital systems — scoping the problem, designing the flow, working with stakeholders, and taking the product through to launch.
+
+---
+
+### 🏢 KaslanTech
+
+A technology company building software products and digital services for businesses.
+
+- **KaslanHost** — hosting & server platform
+- **T-Soft e-commerce** — official T-Soft partner for e-commerce infrastructure
+- **Services** — e-commerce, corporate websites, iOS/Android apps, ERP consulting, product & project consulting
+- **R&D** — AI-driven vertical products, coming soon
+
+🌐 [kaslantech.com](https://kaslantech.com) · ✉️ info@kaslantech.com
 
 ---
 
 ### 🔧 Now
 
+- **KaslanTech** — launching the company site and KaslanHost
 - **ERP for a robotics manufacturer** — building an ERPNext (Frappe) based ERP for ANYROB, an industrial automation company
-- **Computer vision** — UI component detection and industrial object classification with PyTorch
 
 ---
 
@@ -64,4 +77,4 @@ Led 8+ live web and mobile systems from requirements to release, coordinating de
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/k%C3%BCbra-k%C4%B1l%C4%B1%C3%A7aslan-b62136256/) · haticekubrakilicaslan@gmail.com · [ORCID](https://orcid.org/0009-0000-4203-9833)
+[LinkedIn](https://www.linkedin.com/in/k%C3%BCbra-k%C4%B1l%C4%B1%C3%A7aslan-b62136256/) · [KaslanTech](https://kaslantech.com) · haticekubrakilicaslan@gmail.com · [ORCID](https://orcid.org/0009-0000-4203-9833)
